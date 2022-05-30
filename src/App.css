@@ -1,0 +1,39 @@
+.full-container
+{
+  width:900px;
+  
+  margin:0 auto;
+}
+
+.inner-container
+{
+  width:3600px;
+  display:flex;
+  flex-flow:row nowrap;
+
+  
+
+}
+
+.item
+{
+  width:900px;
+  height:500px;
+}
+.item1
+{
+  background-color:bisque;
+}
+.item2
+{
+  background-color:red;
+}
+.item3
+{
+  background-color:blue;
+}
+
+.item4
+{
+  background-color:magenta;
+}
